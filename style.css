@@ -1,0 +1,60 @@
+#main{
+    background-color: lightgrey;
+    border-radius: 10px;
+  }
+  #img-div{
+    background-color: white;
+  }
+  #image{
+    max-width: 97%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #title{
+    text-align: center;
+    padding-top: 35px;
+    font-size: 45px;
+  }
+  #eph{
+    text-align: center;
+  }
+  #img-caption{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 1.5;
+  }
+  #tribute-info{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  ul{
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  li{
+    padding-bottom: 10px;
+    line-height: 1.5;
+  }
+  #quote{
+    max-width: 500px;
+    margin: 0 auto;
+    padding-top: 25px;
+    font-style: italic;
+  }
+  #cite{
+    max-width: 500px;
+    margin: 0 auto;
+    padding-top: 25px;
+    font-style: italic;
+  }
+  #link-text{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 600px;
+    padding-top: 35px;
+    padding-bottom: 30px;
+    line-height:1.5;
+  }
